@@ -6,4 +6,4 @@ This project is still under development and will not be available in this portfo
 
 
 
-Freelace Project by MyteDeC 
+By MyteDeC 
